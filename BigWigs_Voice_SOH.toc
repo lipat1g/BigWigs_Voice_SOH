@@ -1,7 +1,7 @@
 ## Interface: 100100
 
-## Title: BigWigs Voice Pack |cCC33FFSOH|r 
-## Version: @project-version@
+## Title: BigWigs Voice Pack |cffffffffSOH|r
+## Version: v10.1.0.2
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
 ## Author: Funkydude, Sehra, Lipat02
 
@@ -12,7 +12,5 @@
 
 ## X-Category: Raid
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
-## X-Curse-Project-ID: 87513
-## X-WoWI-ID: 24218
 
 Core.lua
