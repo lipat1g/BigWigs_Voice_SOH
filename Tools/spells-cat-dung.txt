@@ -25,23 +25,23 @@
 413385	Overload Grounding Field
 
 ; Boss: Grand Vizier Ertan
-86292	Cyclone Shield
-413151	Summon Tempest
-413562	Lethal Current
+86292	Cyklonový štít
+413151	Vyvolejte Bouři
+413562	Smrtící proud
 
 ; Boss: Altairus
--2425	Call the Wind
-88282	Upwind of Altairus
-88286	Downwind of Altairus
-88308	Chilling Breath
-413275	Cold Front
-413295	Downburst
+-2425	Volejte vítr
+88282	Protivítr Altairuse
+88286	Povětří Altairuse
+88308	Chladivý dech
+413275	Studená fronta
+413295	Spodní prasknutí
 
 ; Boss: Asaad, Caliph of Zephyrs
-86911	Unstable Grounding Field
-86930	Supremacy of the Storm
-87622	Chain Lightning
--2434	Skyfall Star
-87618	Static Cling
+86911	Nestabilní uzemňovací pole
+86930	Nadvláda Bouře
+87622	Řetězový blesk
+-2434	Hvězda padání oblohy
+87618	Statické přilnutí
 
 
